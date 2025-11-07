@@ -1,6 +1,11 @@
 ---
 title: 梯度下降算法及其变体（上）
 date: '2025-11-04 19:47:16'
+categories:
+  - 学习笔记
+tags:
+  - 机器学习
+  - 深度学习
 updated: '2025-11-04 22:51:44'
 permalink: /post/gradient-descent-algorithm-and-its-variants-part-1-tv5i7.html
 comments: true
