@@ -1,6 +1,11 @@
 ---
 title: 训练的常见问题与解决方法
 date: '2025-11-02 15:25:26'
+categories:
+  - 学习笔记
+tags:
+  - 机器学习
+  - 深度学习
 updated: '2025-11-02 23:26:54'
 permalink: /post/frequently-asked-questions-and-solutions-about-training-1euow.html
 comments: true

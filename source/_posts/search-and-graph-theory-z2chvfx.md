@@ -1,6 +1,10 @@
 ---
 title: 搜索与图论
 date: '2025-11-25 08:38:25'
+categories:
+  - 算法学习
+tags:
+  - C++
 updated: '2025-11-25 08:40:54'
 permalink: /post/search-and-graph-theory-z2chvfx.html
 comments: true
