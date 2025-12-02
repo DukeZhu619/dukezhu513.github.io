@@ -1,6 +1,11 @@
 ---
 title: Home Credit Default Risk信贷违约预测实践
 date: '2025-12-01 08:28:33'
+categories:
+  - 学习笔记
+tags:
+  - Kaggle
+  - 数据分析
 updated: '2025-12-02 23:47:48'
 permalink: /post/home-credit-default-riskcredit-default-prediction-practice-z1tdqhv.html
 comments: true

@@ -1,6 +1,10 @@
 ---
 title: 具身智能世界模型综述：架构、演进与挑战
 date: '2025-11-27 21:36:47'
+categories:
+  - 综述库
+tags:
+  - Embodied AI
 updated: '2025-11-28 00:40:41'
 permalink: >-
   /post/overview-of-embodied-intelligent-world-models-architecture-evolution-and-challenges-z1f5ddi.html

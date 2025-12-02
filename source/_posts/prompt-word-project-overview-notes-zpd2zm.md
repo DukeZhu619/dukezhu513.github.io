@@ -5,7 +5,7 @@ categories:
   - 综述库
 tags:
   - LLM
-    - 提示词工程
+  - 提示词工程
 updated: '2025-08-18 11:52:40'
 permalink: /post/prompt-word-project-overview-notes-zpd2zm.html
 comments: true
