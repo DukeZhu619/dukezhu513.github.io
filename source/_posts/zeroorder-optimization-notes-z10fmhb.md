@@ -1,6 +1,10 @@
 ---
 title: 零阶优化笔记
 date: '2025-12-01 19:32:23'
+categories:
+  - 学习笔记
+tags:
+  - Zeroth-Order Optimization
 updated: '2025-12-08 01:06:09'
 permalink: /post/zeroorder-optimization-notes-z10fmhb.html
 comments: true

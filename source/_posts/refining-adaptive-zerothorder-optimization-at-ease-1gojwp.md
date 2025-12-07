@@ -1,6 +1,10 @@
 ---
 title: 《Refining Adaptive Zeroth-Order Optimization at Ease》
 date: '2025-12-07 23:56:47'
+categories:
+  - 论文阅读
+tags:
+  - Zeroth-Order Optimization
 updated: '2025-12-08 01:06:44'
 permalink: /post/refining-adaptive-zerothorder-optimization-at-ease-1gojwp.html
 comments: true
