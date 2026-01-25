@@ -1,6 +1,14 @@
 ---
 title: Quantization-Aware Training(QAT)综述笔记
 date: '2026-01-26 00:41:07'
+categories:
+  - 综述库
+tags:
+  - AI
+  - LLM
+  - QAT
+  - 综述
+  
 updated: '2026-01-26 01:28:01'
 permalink: /post/quantizationaware-training-qat-review-notes-zms4cn.html
 comments: true
